@@ -1,2 +1,12 @@
-# CLII-Weather-App
-This is a CLI app that allow users enter a particular city and returns the weather of that particular city including the temperature, condition, humidity, and wind speed at the particular time the request was sent.
+# CLI-Weather-App
+## Setup
+
+1. Clone the repo
+2. Create a `.env` file
+3. Add your API key:
+
+API_KEY=your_key_here
+
+4. Run:
+npm install
+node app.js
